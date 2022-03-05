@@ -1,4 +1,4 @@
-FROM ubi8
+FROM registry.access.redhat.com/ubi8
 Label author=clusterapps
 
 # Install cool software
